@@ -1,0 +1,17 @@
+﻿## Interface: 11302
+## Title: |cFF00FF00[Beta]|rHomeBack
+## Title-zhCN: |cFF00FF00[Beta]|r回家
+## Title-zhTW: |cFF00FF00[Beta]|r回家
+## Notes: |cffbc8f8fA |r
+## Notes-zhCN: |cff00ff00劝你回家，助你退游。|r                                             |cffbc8f8f|r
+## Notes-zhTW: |cff00ff00劝你回家，助你退游。|r                                             |cffbc8f8f|r
+## OptionalDeps: Ace3
+## SavedVariables: HBDB
+## Author: 健康哥哥
+
+embeds.xml
+
+Core.lua
+Brain.lua
+BrainCN.lua
+BrainTW.lua
