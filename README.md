@@ -5,6 +5,6 @@
 
 ### Description ###
 1. This is a part implementation of the ALICE chatterbot engine in lua
-2. You can use '/arr' to enable/disable automatically reply
+2. You can use '/hb' to enable/disable automatically reply
 3. You can say 'calc+equation'(like 'calc100+2^10') on whisper or general channel to calculate
 4. It will not send anything to yourself
